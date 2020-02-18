@@ -1,0 +1,19 @@
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\bin\Debug\lab.exe.config
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\bin\Debug\lab.exe
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\bin\Debug\lab.pdb
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.Form1.resources
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.exe
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.pdb
+C:\Users\Aleksey\Desktop\комп зрение\1 лаба\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+D:\_Desktop\1 лаба\lab\lab\bin\Debug\lab.exe.config
+D:\_Desktop\1 лаба\lab\lab\bin\Debug\lab.exe
+D:\_Desktop\1 лаба\lab\lab\bin\Debug\lab.pdb
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.Form1.resources
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.Properties.Resources.resources
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.exe
+D:\_Desktop\1 лаба\lab\lab\obj\Debug\lab.pdb
